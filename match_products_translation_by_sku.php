@@ -89,4 +89,3 @@ function fetch_products_translation_and_match($from, $to, $debug = false)
 
 // Run the script.
 fetch_products_translation_and_match('zh-hant', 'en');
-?>
